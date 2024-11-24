@@ -1,0 +1,6 @@
+log file is open
+File "konfig.txt" is open
+Server IP is 127.0.0.1
+Server socket is 2024
+Initialising Winsock...
+Could not create socket : 10061

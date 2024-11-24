@@ -1,0 +1,9 @@
+[24.11.2024 13:57:42] log file is open
+[24.11.2024 13:57:42] File "konfig.txt" is open
+[24.11.2024 13:57:42] Server IP is 2024
+[24.11.2024 13:57:42] Server socket is 0
+[24.11.2024 13:57:42] Initialising Winsock...
+[24.11.2024 13:57:42] Server socket created.
+[24.11.2024 13:57:42] Bind done
+[24.11.2024 13:57:42] Loop Accept is going
+[24.11.2024 13:57:42] Wait new member
